@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Trash2, Edit2, Plus, X, Check, Clock } from 'lucide-react';
 
 // API Service
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://task-management-system-backend-1-t5fn.onrender.com/api';
 
 const api = {
   getTasks: async () => {
