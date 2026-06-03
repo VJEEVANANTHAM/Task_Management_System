@@ -155,7 +155,7 @@ function App() {
         <div className="bg-white rounded-lg shadow-lg p-6 mb-6">
           <div className="flex justify-between items-center">
             <div>
-              <h1 className="text-3xl font-bold text-gray-800">Task Manager</h1>
+              <h1 className="text-3xl font-bold text-gray-800">Task Manager123</h1>
               <p className="text-gray-600 mt-1">Organize your tasks efficiently</p>
             </div>
             <button
